@@ -1,0 +1,1 @@
+{"name":"NeonHighway.EditModeTests","references":["NeonHighway","Unity.InputSystem","Unity.TextMeshPro","Unity.ugui","Unity.RenderPipelines.Universal.Runtime","Unity.RenderPipelines.Core.Runtime"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}

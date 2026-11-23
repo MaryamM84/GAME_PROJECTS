@@ -1,0 +1,1 @@
+{"name":"NeonHighway.PlayModeTests","references":["NeonHighway","Unity.InputSystem","Unity.TextMeshPro","Unity.ugui","Unity.RenderPipelines.Universal.Runtime","Unity.RenderPipelines.Core.Runtime"],"optionalUnityReferences":["TestAssemblies"]}
